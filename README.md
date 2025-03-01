@@ -1,4 +1,11 @@
 Advanced Steganography Tool
+
+
+
+
+
+
+
 Introduction
 This Advanced Steganography Tool allows you to hide secret messages inside images using pixel manipulation techniques. It also provides features for decrypting hidden messages, saving logs, and switching between light and dark themes for better user experience.
 
