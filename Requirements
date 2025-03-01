@@ -1,0 +1,5 @@
+Python 3.8 or higher
+OpenCV (cv2)	pip install opencv-python
+Pillow (PIL)	pip install Pillow
+tkinter pip install tk or ttk
+ttk (part of tkinter)
